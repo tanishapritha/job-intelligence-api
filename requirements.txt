@@ -1,1 +1,10 @@
 fastapi
+uvicorn[standard]
+sentence-transformers
+numpy
+python-dotenv
+pydantic
+aioredis
+langchain
+openai
+scikit-learn
